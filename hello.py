@@ -3,7 +3,7 @@ import sys
 
 def say_hello(name):
     """Print a hello statement to screen."""
-    print(f"H, {name}!")
+    print(f"Hi, {name}!")
 
 
 if __name__ == "__main__":
