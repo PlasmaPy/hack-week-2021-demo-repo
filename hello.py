@@ -7,7 +7,7 @@ def say_hello(name):
 
 if __name__ == "__main__":
     if len(sys.argv) > 1:
-        name = sys.arv[1]
+        name = sys.argv[1]
     else:
         name = "awesome people of the Hack Week"
 
