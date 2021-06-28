@@ -2,6 +2,7 @@ import sys
 
 
 def say_hello(name):
+    """Print a hello statement to screen."""
     print(f"H, {name}!")
 
 
